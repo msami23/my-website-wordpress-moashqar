@@ -1,0 +1,83 @@
+/*
+Theme Name: MOashqar Wordpress Company
+Theme URI: https://ashqar.ps
+Author: Mohammed Alashqar
+Author URL: https://github.com/msami23
+Description: Ashqar Wordpress Theme
+Tags: Bussiness, Start up, Company
+Version: 1.8
+Requiers at Least: 5.0
+Requiers PHP: 7.4
+Text Domain: moashqar
+*/
+
+
+/*.custom_nav-container.navbar-nav.nav-item.nav-link{*/
+/*    padding: 3px 15px;*/
+/*    margin: 10px 15px;*/
+/*    color: #ffffff;*/
+/*    text-align: center;*/
+/*    text-transform: uppercase;*/
+/*}*/
+
+/*.collapse navbar-collapse .navbar-nav  ml-auto li a {*/
+/*    color: white!important;*/
+/*}*/
+
+
+/*.navbar-nav  ml-auto li a {*/
+/*    color: white!important;*/
+/*}*/
+
+/*.collapse.navbar-collapse {*/
+/*    background-color: white;*/
+/*}*/
+.navbar-nav.ml-auto li a {
+    padding: 3px 15px;
+    margin: 10px 15px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+.navbar-nav.ml-auto :hover li a{
+    color: red;
+}
+
+
+.moashqar_more{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.moashqar_more a{
+    padding: 10px 45px;
+    background-color: #ff4646;
+    color: #ffffff!important;
+    border-radius: 5px;
+    border: 1px solid #ff4646;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    margin-top: 15px;
+}
+
+.moashqar_more a:hover{
+    padding: 10px 45px;
+    background-color: #FFFFFF;
+    color:  #ff4646!important;
+    border-radius: 5px;
+    border: 1px solid #ff4646;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    margin-top: 15px;
+}
+.wpcf7-form-control.wpcf7-submit {
+    background-color: #ff4646!important;
+    color: white!important;
+}
+.wpcf7-form-control.wpcf7-submit:hover {
+    background-color: white!important;
+    color: #ff4646!important;
+    border: 1px solid#ff4646!important ;
+}
+
+
